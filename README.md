@@ -1,4 +1,4 @@
-# VoiceNova 🎙️ - Your AI Voice Assistant in Python
+# VoiceNova 🎙️ - Your AI Voice Assistant 
 
 VoiceNova is an AI-based voice assistant built with Python and a beautiful Tkinter GUI. It can listen to your voice, respond via text-to-speech, and perform tasks like opening apps, playing songs, telling the time/date, cracking jokes, and more — just like Alexa!
 
@@ -30,17 +30,13 @@ pip install pywhatkit
 pip install pyaudio
 
 📁 Project Structure
-bash
-Copy
-Edit
 VoiceNova/
 │
 ├── VoiceNova.py         # Main GUI + Assistant logic
 ├── README.md            # You're reading it!
+
+
 🛠️ How to Run
-bash
-Copy
-Edit
 python VoiceNova.py
 Make sure your microphone is working and Python 3.8+ is installed.
 
@@ -56,3 +52,4 @@ Make sure your microphone is working and Python 3.8+ is installed.
 | Search       | "Search something"                            |
 | Exit         | "Exit", "Quit", "Goodbye"                     |
 "
+
